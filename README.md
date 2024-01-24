@@ -1,4 +1,4 @@
-Hey, I'm Excentor 👋🏽
+Hey, I'm Het 👋🏽
 
 I am a 17 year old programmer from Canada, and wish to pursue this path in the future to come!
 
