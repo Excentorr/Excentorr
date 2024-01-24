@@ -1,4 +1,6 @@
-### Hi there 👋
+Hey, I'm Excentor 👋🏽
+
+I am a 17 year old programmer from Canada, and wish to pursue this path in the future to come!
 
 <!--
 **Excentorr/Excentorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
