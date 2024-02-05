@@ -1,4 +1,4 @@
-## Hey, I'm Het
+## Hey, I'm SelectVoid
 
 I'm a 17-year-old developer based in Canada, and I am passionate about creating games and working with user application
 
