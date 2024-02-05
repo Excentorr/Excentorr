@@ -8,4 +8,4 @@ Object Oriented Development: ```Java``` ```Luau```
 
 
 ## 📫 Contact
-For a quick response, DM me on [Instagram](https://www.instagram.com/_hzt._/)
+For a quick response, DM me on [Instagram](https://www.instagram.com/_hzt._/) or on discord (@excentor)
