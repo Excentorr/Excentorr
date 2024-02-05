@@ -4,9 +4,11 @@ I'm a 17-year-old developer based in Canada, and I am passionate about creating 
 
 
 ## 📦 Toolbox
-Object Oriented Development: ```Java | 2 Years``` ```Luau | 2 Months```
+Object Oriented Development: ```Java | 2 Years``` ```Luau | 1 Months```
 
 3D Modelling: ```Blender | 2 Months```
+
+Graphics: ```Photoshop | 3 Years```
 
 
 
