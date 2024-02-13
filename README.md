@@ -4,7 +4,7 @@ I'm a 17-year-old developer based in Canada, and I am passionate about creating 
 
 
 ## 📦 Toolbox | Programming
-Object Oriented Development: ```Java | 2 Years``` ```Luau | 1 Months```
+Object Oriented Development: ```Java | 2 Years``` ```Python | 1 Year``` ```Lua | 1 Months```
 
 
 
