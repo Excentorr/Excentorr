@@ -9,8 +9,6 @@ Object Oriented Development: ```Java | 2 Years``` ```Python | 1 Year``` ```Lua |
 
 
 ## 📦 Toolbox | Other
-3D Modelling: ```Blender | 2 Months```
-
 Graphics: ```Photoshop | 3 Years```
 
 
