@@ -1,6 +1,6 @@
 ## Hey, I'm Het
 
-I'm a 17-year-old developer based in Canada, and I am passionate about creating games and working with user applications.
+I'm a 17-year-old developer based in Canada and I am passionate about Artificial Intelligence and Machine Learning. I wish to pursue a career within this industry in the near future!
 
 
 ## 📦 Toolbox | Programming
