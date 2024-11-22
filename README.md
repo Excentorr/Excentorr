@@ -14,4 +14,4 @@ Graphics: ```Photoshop | 4 Years``` ```Lightroom | 2 Year```
 
 
 ## 📫 Contact
-For a quick response, DM me on [Twitter](https://twitter.com/SelectVoid)
+For a quick response, add me on discord: excentor
